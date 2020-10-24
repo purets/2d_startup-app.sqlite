@@ -13,10 +13,10 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using Sirenix.Utilities;
-#if UNITY_EDITOR
-using Sirenix.Utilities.Editor;
-#endif
+// using Sirenix.Utilities;
+// #if UNITY_EDITOR
+// using Sirenix.Utilities.Editor;
+// #endif
 using SQLite.Attribute;
 using SQLiteNetExtensions.Extensions;
 using UnityEngine;
